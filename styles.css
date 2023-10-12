@@ -1,0 +1,62 @@
+#formbody {
+    filter: grayscale(100%);
+    font-family: "Trebuchet MS",sans-serif;
+}
+.bg-black {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+.roundiframe{
+    border-radius: 0.7em;
+    height: 300px;
+}
+ul{
+  list-style-image: url('bullet_1.jpg');
+}
+#image1{
+    height: 170px;
+}
+#image2{
+    height: 250px;
+}
+#image3{
+    height: 150px;
+}
+#img1{
+    padding-top: 200px;
+    padding-bottom: 10px;
+}
+#img2{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#main{
+    margin-left: 80px;
+}
+.stroke{
+   color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#bignum{
+    font-size: 50px;
+}
+#formslot{
+    height:300px;
+    padding-top: 20px;
+}
+#box{
+    color: white;
+    background-color: #232329;
+
+}
+.btnsubmit{
+    border: 1px solid white;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    width: 150px;
+}
+#about{
+    font-family: "Trebuchet MS",sans-serif;
+}
